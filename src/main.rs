@@ -1,4 +1,6 @@
 
+// ported from c
+
 use std::io;
 
 const MEMSIZE: usize = 65536;               // memory size 64k
